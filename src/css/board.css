@@ -1,0 +1,16 @@
+.column-header {
+    display: flex;
+    justify-content: start;
+  }
+  
+  .header-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .badge {
+    font-size: 0.8rem;
+    padding: 0.25rem 0.5rem;
+    margin-left: 0.5rem;
+  }
